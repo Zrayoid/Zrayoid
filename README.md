@@ -15,13 +15,13 @@
 
 # 👋 About Me
 
-Hey! I'm **Rahul**, 
-a **B.Sc. IT** student passionate about **C++**, **Game Development**, and writing clean, maintainable code.
+Hey! I'm **Rahul**,<br> 
+a **B.Sc. IT** student passionate about **C++**, **Game Development**, and writing clean, maintainable code.<br>
 
-I'm currently learning **Object-Oriented Programming** in C++ after beginning my programming journey with **C**. 
-I enjoy building projects while learning and understanding how software works under the hood.
+I'm currently learning **Object-Oriented Programming** in C++ after beginning my programming journey with **C**. <br>
+I enjoy building projects while learning and understanding how software works under the hood.<br>
 
-My long-term goal is to become a **Game Developer**, backed by a strong foundation in **C++**, **systems programming**, and modern software engineering.
+My long-term goal is to become a **Game Developer**, backed by a strong foundation in **C++**, **systems programming**, and modern software engineering.<br>
 
 Outside coding you'll usually find me watching **Anime** 🎌 or playing **Games** 🎮.
 
