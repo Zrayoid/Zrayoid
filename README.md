@@ -16,7 +16,6 @@
 
 ```cpp
 Name        :: Rahul
-Alias       :: Zrayoid
 Degree      :: B.Sc. Information Technology
 Year        :: Second Year
 Focus       :: Modern C++
