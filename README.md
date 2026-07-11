@@ -54,11 +54,14 @@ Outside coding you'll usually find me watching **Anime** 🎌 or playing **Games
 # 🚀 Learning Roadmap
 
 ```text
-██████████░░░░░░░░░░  Modern C++
-██████░░░░░░░░░░░░░░  Object-Oriented Programming
-██░░░░░░░░░░░░░░░░░░  Data Structures & Algorithms
-░░░░░░░░░░░░░░░░░░░░  Game Development
-░░░░░░░░░░░░░░░░░░░░  Game Engine Programming
+📍 Currently Learning
+• Modern C++
+• Object-Oriented Programming
+
+🗺️ Next
+• STL
+• Data Structures
+• Game Development
 ```
 
 ---
