@@ -1,10 +1,83 @@
 > booting profile...
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
 
-███████╗██████╗  █████╗ ██╗   ██╗ ██████╗ ██╗██████╗
-╚══███╔╝██╔══██╗██╔══██╗╚██╗ ██╔╝██╔═══██╗██║██╔══██╗
-  ███╔╝ ██████╔╝███████║ ╚████╔╝ ██║   ██║██║██║  ██║
- ███╔╝  ██╔══██╗██╔══██║  ╚██╔╝  ██║   ██║██║██║  ██║
-███████╗██║  ██║██║  ██║   ██║   ╚██████╔╝██║██████╔╝
+<defs>
+
+<linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00F5FF"/>
+    <stop offset="50%" stop-color="#7C3AED"/>
+    <stop offset="100%" stop-color="#FF00AA"/>
+</linearGradient>
+
+<filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+</filter>
+
+</defs>
+
+<!-- Background -->
+
+<rect width="1200" height="280" fill="#0D1117"/>
+
+<!-- Top line -->
+
+<line
+x1="80"
+y1="55"
+x2="1120"
+y2="55"
+stroke="#00F5FF"
+stroke-width="2"
+opacity=".4"/>
+
+<!-- Bottom line -->
+
+<line
+x1="80"
+y1="225"
+x2="1120"
+y2="225"
+stroke="#A855F7"
+stroke-width="2"
+opacity=".4"/>
+
+<!-- Main Text -->
+
+<text
+x="600"
+y="165"
+text-anchor="middle"
+font-size="92"
+font-family="JetBrains Mono, monospace"
+font-weight="900"
+fill="url(#textGradient)"
+filter="url(#glow)"
+letter-spacing="8">
+
+ZRAYOID
+
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="600"
+y="205"
+text-anchor="middle"
+font-size="20"
+font-family="JetBrains Mono, monospace"
+fill="#8B949E"
+letter-spacing="4">
+
+MODERN C++ • GAME DEVELOPMENT • OPEN SOURCE
+
+</text>
+
+</svg>
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝╚═════╝
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+zrayoid-os...;%3E+loading+developer+profile...;%3E+learning+Modern+C%2B%2B...;%3E+building+one+project+at+a+time...;%3E+target+%3A+Game+Development;%3E+system+ready." />
 </p>
