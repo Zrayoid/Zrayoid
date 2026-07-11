@@ -78,7 +78,6 @@ MODERN C++ • GAME DEVELOPMENT • OPEN SOURCE
 </text>
 
 </svg>
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝╚═════╝
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+zrayoid-os...;%3E+loading+developer+profile...;%3E+learning+Modern+C%2B%2B...;%3E+building+one+project+at+a+time...;%3E+target+%3A+Game+Development;%3E+system+ready." />
 </p>
 <p align="center">
