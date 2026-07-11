@@ -1,266 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1500"
-    height="500"
-    viewBox="0 0 1500 500">
-
-<title>ZRAYOID Cyberpunk Banner</title>
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 
-<!-- ========================= -->
-<!-- Background Gradient -->
-<!-- ========================= -->
-
-<linearGradient id="bgGradient"
-                x1="0%"
-                y1="0%"
-                x2="100%"
-                y2="100%">
-
-<stop offset="0%" stop-color="#050816"/>
-
-<stop offset="45%" stop-color="#0D1117"/>
-
-<stop offset="100%" stop-color="#101826"/>
-
+<linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00F5FF"/>
+    <stop offset="50%" stop-color="#7C3AED"/>
+    <stop offset="100%" stop-color="#FF00AA"/>
 </linearGradient>
 
-<!-- ========================= -->
-<!-- Cyan Glow -->
-<!-- ========================= -->
-
-<filter id="cyanGlow"
-        x="-50%"
-        y="-50%"
-        width="200%"
-        height="200%">
-
-<feGaussianBlur stdDeviation="4"
-                result="blur"/>
-
-<feMerge>
-
-<feMergeNode in="blur"/>
-
-<feMergeNode in="SourceGraphic"/>
-
-</feMerge>
-
+<filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
 </filter>
-
-<!-- ========================= -->
-<!-- Purple Glow -->
-<!-- ========================= -->
-
-<filter id="purpleGlow"
-        x="-50%"
-        y="-50%"
-        width="200%"
-        height="200%">
-
-<feGaussianBlur stdDeviation="8"
-                result="blur"/>
-
-<feMerge>
-
-<feMergeNode in="blur"/>
-
-<feMergeNode in="SourceGraphic"/>
-
-</feMerge>
-
-</filter>
-
-<!-- ========================= -->
-<!-- Soft Shadow -->
-<!-- ========================= -->
-
-<filter id="shadow">
-
-<feDropShadow
-dx="0"
-dy="0"
-stdDeviation="10"
-flood-color="#00F5FF"
-flood-opacity="0.45"/>
-
-</filter>
-
-<!-- ========================= -->
-<!-- Grid Pattern -->
-<!-- ========================= -->
-
-<pattern id="grid"
-
-width="40"
-
-height="40"
-
-patternUnits="userSpaceOnUse">
-
-<path
-d="M40 0H0V40"
-
-fill="none"
-
-stroke="#14233A"
-
-stroke-width="1"/>
-
-</pattern>
-
-<!-- ========================= -->
-<!-- Scan Lines -->
-<!-- ========================= -->
-
-<pattern
-id="scan"
-
-width="8"
-
-height="8"
-
-patternUnits="userSpaceOnUse">
-
-<rect
-
-width="8"
-
-height="1"
-
-fill="#ffffff"
-
-opacity="0.025"/>
-
-</pattern>
 
 </defs>
 
-<!-- ========================= -->
 <!-- Background -->
-<!-- ========================= -->
 
-<rect
+<rect width="1200" height="280" fill="#0D1117"/>
 
-width="1500"
-
-height="500"
-
-fill="url(#bgGradient)"/>
-
-<rect
-
-width="1500"
-
-height="500"
-
-fill="url(#grid)"
-
-opacity="0.6"/>
-
-<rect
-
-width="1500"
-
-height="500"
-
-fill="url(#scan)"/>
-
-<!-- ========================= -->
-<!-- Neon Glow -->
-<!-- ========================= -->
-
-<circle
-
-cx="1260"
-
-cy="90"
-
-r="180"
-
-fill="#8A2BE2"
-
-opacity="0.08"
-
-filter="url(#purpleGlow)"/>
-
-<circle
-
-cx="240"
-
-cy="420"
-
-r="170"
-
-fill="#00F5FF"
-
-opacity="0.07"
-
-filter="url(#cyanGlow)"/>
-
-<!-- ========================= -->
-<!-- Decorative Lines -->
-<!-- ========================= -->
+<!-- Top line -->
 
 <line
-
 x1="80"
-
-y1="80"
-
-x2="1420"
-
-y2="80"
-
+y1="55"
+x2="1120"
+y2="55"
 stroke="#00F5FF"
-
 stroke-width="2"
+opacity=".4"/>
 
-opacity="0.5"/>
+<!-- Bottom line -->
 
 <line
-
 x1="80"
-
-y1="420"
-
-x2="1420"
-
-y2="420"
-
+y1="225"
+x2="1120"
+y2="225"
 stroke="#A855F7"
-
 stroke-width="2"
+opacity=".4"/>
 
-opacity="0.4"/>
+<!-- Main Text -->
 
-<!-- Left Accent -->
+<text
+x="600"
+y="165"
+text-anchor="middle"
+font-size="92"
+font-family="JetBrains Mono, monospace"
+font-weight="900"
+fill="url(#textGradient)"
+filter="url(#glow)"
+letter-spacing="8">
 
-<rect
+ZRAYOID
 
-x="80"
+</text>
 
-y="120"
+<!-- Subtitle -->
 
-width="5"
+<text
+x="600"
+y="205"
+text-anchor="middle"
+font-size="20"
+font-family="JetBrains Mono, monospace"
+fill="#8B949E"
+letter-spacing="4">
 
-height="260"
+MODERN C++ • GAME DEVELOPMENT • OPEN SOURCE
 
-fill="#00F5FF"/>
+</text>
 
-<!-- Right Accent -->
-
-<rect
-
-x="1415"
-
-y="120"
-
-width="5"
-
-height="260"
-
-fill="#A855F7"/>
+</svg>
