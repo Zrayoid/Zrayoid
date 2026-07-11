@@ -1,185 +1,158 @@
-## Hi there 👋
 <div align="center">
 
-# Rahul K
+<img src="./assets/banner.png" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=B.Sc.+IT+Student;Learning+Modern+C%2B%2B;Future+Game+Developer;Building+One+Project+at+a+Time" />
+<br>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Zrayoid&label=Profile+Views&color=00e5ff&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+booting+zrayoid+os...;%3E+loading+developer+profile...;%3E+learning+modern+c%2B%2B...;%3E+future+game+developer...;%3E+system+ready." />
 
 </div>
 
 ---
 
-# 👋 About Me
+# > SYSTEM_PROFILE
 
-Hey! I'm **Rahul**,<br> 
-a **B.Sc. IT** student passionate about **C++**, **Game Development**, and writing clean, maintainable code.<br>
-
-I'm currently learning **Object-Oriented Programming** in C++ after beginning my programming journey with **C**. <br>
-I enjoy building projects while learning and understanding how software works under the hood.<br>
-
-My long-term goal is to become a **Game Developer**, backed by a strong foundation in **C++**, **systems programming**, and modern software engineering.<br>
-
-Outside coding you'll usually find me watching **Anime** 🎌 or playing **Games** 🎮.
-
----
-
-# 🎯 Current Focus
-
-- 📚 Learning **Modern C++**
-- ⚙️ Practicing **Object-Oriented Programming**
-- 🏗️ Building small projects to strengthen fundamentals
-- 🎮 Preparing for **Game Development**
-- 🌱 Learning something new every day
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,python,javascript&theme=dark"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
-</p>
-
----
-
-# 🚀 Learning Roadmap
-
-```text
-📍 Currently Learning
-• Modern C++
-• Object-Oriented Programming
-
-🗺️ Next
-• STL
-• Data Structures
-• Game Development
+```cpp
+Name        :: Rahul
+Alias       :: Zrayoid
+Degree      :: B.Sc. Information Technology
+Year        :: Second Year
+Focus       :: Modern C++
+Destination :: Game Development
+Editor      :: VS Code
+OS          :: Windows + Linux
+Status      :: Learning
 ```
 
 ---
 
-# 📂 Projects I'm Building
+## Hello, Visitor.
 
-### 💻 C++ Learning Journey
+I'm **Rahul**, a **B.Sc. IT** student who enjoys understanding software from the ground up.
 
-A structured repository documenting my C++ learning through concepts, examples, notes, and mini-projects.
+My current focus is learning **Modern C++** and **Object-Oriented Programming** while building projects that strengthen my fundamentals.
 
----
+The long-term goal is to become a **Game Developer**, but I'm taking the scenic route—learning how things work before learning how to make them look good.
 
-### 🎮 Future Game Projects
-
-As I learn game development, this section will showcase my games, experiments, and engine-related projects.
+When I'm away from the keyboard, I'm probably watching **Anime** 🎌 or playing **Games** 🎮.
 
 ---
 
-### ⚡ More Coming Soon...
+# > CURRENT_MISSION
 
-Every project I publish represents something new I've learned.
+```text
+[✓] C Basics
+[►] Modern C++
+[►] Object-Oriented Programming
+
+[ ] STL
+[ ] Data Structures
+[ ] Algorithms
+[ ] Design Patterns
+[ ] Game Development
+[ ] Engine Programming
+```
 
 ---
 
-# 📊 GitHub Analytics
+# > MODULES
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+### Languages
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zrayoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css&theme=dark"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark"/>
 
 </div>
 
 ---
 
+# > GITHUB_ACTIVITY
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Zrayoid&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zrayoid&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=A855F7&text_color=E5E5E5&ring_color=00F5FF"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Zrayoid&theme=transparent&hide_border=true&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF&sideLabels=E5E5E5&dates=8B949E"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zrayoid&bg_color=0D1117&color=00F5FF&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+# > ACTIVE_PROJECTS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zrayoid&theme=tokyo-night&hide_border=true"/>
+```text
+STATUS : UNDER CONSTRUCTION
+```
 
-</div>
+Projects coming soon.
 
----
+Every repository I publish represents something new I've learned.
 
-# 🌱 Currently Exploring
-
-- Modern C++
-- OOP
-- STL
-- Problem Solving
-- Git & GitHub
-- Linux
-- Software Design
+Quality over quantity.
 
 ---
 
-# 🎯 2026 Goals
+# > DEVELOPER_LOG
 
-- ✅ Master Modern C++
-- 🔲 Build 15+ C++ Projects
-- 🔲 Learn Data Structures & Algorithms
-- 🔲 Start Game Development
-- 🔲 Publish My First Game
-- 🔲 Contribute to Open Source
+```
+2026
+
+✓ Started taking GitHub seriously
+
+✓ Learning Modern C++
+
+► Object-Oriented Programming
+
+○ STL
+
+○ Data Structures
+
+○ Algorithms
+
+○ Game Development
+```
 
 ---
 
-# 🎮 Fun Facts
+# > TRANSMISSION_CHANNELS
 
-- 🎌 Anime keeps me entertained.
-- 🎮 I enjoy playing games as much as I enjoy learning how they're made.
-- 🧩 I like breaking programs just to understand how they work.
-- 🚀 Every project teaches me something new.
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<div align="left">
 
 <a href="https://www.linkedin.com/in/rahul-kamti-53bb13362">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 💭 Philosophy
+```
+Connection Closed.
 
-> *"Build. Break. Learn. Repeat."*
+Thanks for visiting.
+
+See you in the next commit.
+```
 
 </div>
