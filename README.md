@@ -95,6 +95,11 @@ When I'm away from the keyboard, I'm probably watching **Anime** 🎌 or playing
 </div>
 
 ---
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Zrayoid/Zrayoid/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 # > ACTIVE_PROJECTS
 
