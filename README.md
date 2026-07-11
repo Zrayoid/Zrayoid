@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-# Rahul
+# Rahul K
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=B.Sc.+IT+Student;Learning+Modern+C%2B%2B;Future+Game+Developer;Building+One+Project+at+a+Time" />
 
@@ -15,9 +15,11 @@
 
 # 👋 About Me
 
-Hey! I'm **Rahul**, a **B.Sc. IT** student passionate about **C++**, **Game Development**, and writing clean, maintainable code.
+Hey! I'm **Rahul**, 
+a **B.Sc. IT** student passionate about **C++**, **Game Development**, and writing clean, maintainable code.
 
-I'm currently learning **Object-Oriented Programming** in C++ after beginning my programming journey with **C**. I enjoy building projects while learning and understanding how software works under the hood.
+I'm currently learning **Object-Oriented Programming** in C++ after beginning my programming journey with **C**. 
+I enjoy building projects while learning and understanding how software works under the hood.
 
 My long-term goal is to become a **Game Developer**, backed by a strong foundation in **C++**, **systems programming**, and modern software engineering.
 
