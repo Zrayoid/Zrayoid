@@ -5,6 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+zrayoid-os...;%3E+loading+developer+profile...;%3E+learning+Modern+C%2B%2B...;%3E+building+one+project+at+a+time...;%3E+target+%3A+Game+Development;%3E+system+ready." />
 </p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Currently-Learning%20Modern%20C++-00F5FF?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+</p>
 
 <div align="center">
 
@@ -23,20 +28,23 @@ Destination :: Game Development
 Editor      :: VS Code
 OS          :: Windows + Linux
 Status      :: Learning
-```
 
 ---
 
-## Hello, Visitor.
+## Hey there! 👋
 
-I'm **Rahul**, a **B.Sc. IT** student who enjoys understanding software from the ground up.
+I'm Rahul.
 
-My current focus is learning **Modern C++** and **Object-Oriented Programming** while building projects that strengthen my fundamentals.
+I enjoy learning how software works and building projects that help me improve as a programmer.
 
-The long-term goal is to become a **Game Developer**, but I'm taking the scenic route—learning how things work before learning how to make them look good.
+Right now I'm learning Modern C++ and Object-Oriented Programming.
+My long-term goal is to become a Game Developer, and this GitHub is where I'll share that journey.
 
-When I'm away from the keyboard, I'm probably watching **Anime** 🎌 or playing **Games** 🎮.
+### Fun Facts
 
+- ♟️ Chess keeps me thinking.
+- 🎮 Games inspired me to start programming.
+- 🎌 Anime is my favorite way to unwind.
 ---
 
 # > CURRENT_MISSION
