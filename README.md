@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="ZRAYOID Banner" width="100%">
+  <img src="assets/ChatGPT Image Jul 11, 2026, 09_37_55 AM.png" alt="ZRAYOID Banner" width="100%">
 </p>
 
 <p align="center">
