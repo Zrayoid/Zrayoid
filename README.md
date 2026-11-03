@@ -129,7 +129,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 <br/>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://YOUR-VERCEL-DOMAIN/graph?username=Zrayoid&theme=tokyo-night&hide_border=true)
 
 </div>
 
