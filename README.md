@@ -123,7 +123,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true)
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Zrayoid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
