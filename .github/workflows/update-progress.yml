@@ -1,0 +1,120 @@
+name: Update README learning progress
+
+on:
+  # The practice code lives in a separate repository, so check it daily.
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Checkout C++ practice repository
+        uses: actions/checkout@v4
+        with:
+          repository: Zrayoid/CPP_journey
+          path: cpp-journey
+
+      - name: Update profile README mission table
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import os
+          import re
+
+          repo = Path("cpp-journey")
+          readme_path = Path("README.md")
+
+          # Folder names are matched case-insensitively. Add aliases here if
+          # your repository uses a different folder spelling.
+          chapters = [
+              ("Variables", ["variables"], 10, True),
+              ("Data Types", ["data types", "datatypes"], 11, True),
+              ("Conditions", ["conditions", "conditionals"], 14, True),
+              ("Loops", ["loops", "loop"], 5, True),
+              ("Functions", ["functions", "function"], 29, True),
+              ("Arrays", ["arrays", "array"], 24, True),
+              ("Bitwise Operators", ["bitwise operators", "bitwiseoperators"], 12, True),
+              ("Pointers", ["pointers", "pointer"], 18, True),
+              ("OOP", ["oop", "object oriented programming", "object-oriented programming"], 15, False),
+          ]
+
+          def normalized(value):
+              return re.sub(r"[^a-z0-9]", "", value.lower())
+
+          folders = [p for p in repo.iterdir() if p.is_dir() and p.name != ".git" and p.name != ".github"]
+
+          def find_folder(aliases):
+              wanted = {normalized(x) for x in aliases}
+              for folder in folders:
+                  if normalized(folder.name) in wanted:
+                      return folder
+              return None
+
+          rows = []
+          next_topic_unlocked = True
+
+          for title, aliases, historical_cap, already_completed in chapters:
+              folder = find_folder(aliases)
+              count = 0
+              if folder:
+                  count = sum(1 for f in folder.rglob("*.cpp") if f.is_file())
+
+              # Previously completed chapters retain their historical cap.
+              # Future chapters use 15. The actual count is always displayed.
+              cap = historical_cap if already_completed else 15
+              complete = count >= cap
+
+              if already_completed:
+                  status = "COMPLETE"
+                  progress = 100
+              elif not next_topic_unlocked:
+                  status = "LOCKED"
+                  progress = min(100, int(count / cap * 100))
+              elif count == 0:
+                  status = "WAITING FOR FIRST UPLOAD"
+                  progress = 0
+              else:
+                  status = "IN PROGRESS" if not complete else "COMPLETE"
+                  progress = min(100, int(count / cap * 100))
+
+              # The next chapter unlocks only when this chapter has at least
+              # one uploaded program; the active chapter completes at its cap.
+              if not already_completed:
+                  next_topic_unlocked = count > 0 and complete
+
+              filled = round(progress / 10)
+              bar = "█" * filled + "░" * (10 - filled)
+              rows.append(f"| {title} | {count} / {cap} | {bar} {progress}% | {status} |")
+
+          table = "\n".join([
+              "| CHAPTER | PROGRAMS | PROGRESS | STATUS |",
+              "|:--|--:|:--|:--|",
+              *rows
+          ])
+
+          text = readme_path.read_text(encoding="utf-8")
+          pattern = r"<!-- MISSION:START -->.*?<!-- MISSION:END -->"
+          replacement = "<!-- MISSION:START -->\n" + table + "\n<!-- MISSION:END -->"
+          updated, substitutions = re.subn(pattern, replacement, text, flags=re.S)
+
+          if substitutions != 1:
+              raise SystemExit("Could not find exactly one mission marker block in README.md")
+
+          readme_path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit updated progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update learning progress"
+          git push
