@@ -118,16 +118,21 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 </div>
 
-## `06 // GITHUB ACTIVITY`
+
+<h2 align="center">06 // GITHUB ACTIVITY</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d1a&title_color=00e5ff&icon_color=b56cff&text_color=c9d1d9" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Zrayoid&theme=tokyonight&hide_border=true&background=090d1a&ring=00e5ff&fire=ff4fd8&currStreakLabel=00e5ff" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zrayoid&bg_color=090d1a&color=c9d1d9&line=00e5ff&point=ff4fd8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Zrayoid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zrayoid&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
+
 
 ## `07 // LEARNING JOURNEY`
 
