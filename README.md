@@ -129,9 +129,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 <br/>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00ff9c/Zrayoid" alt="GitHub Contribution Calendar" width="100%">
-</p>
+<img src="https://ghchart.rshah.org/00ff9c/Zrayoid?v=2" alt="GitHub Contribution Calendar" width="100%">
 </div>
 
 
