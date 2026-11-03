@@ -129,8 +129,9 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 <br/>
 
-![GitHub Activity Graph](https://YOUR-VERCEL-DOMAIN/graph?username=Zrayoid&theme=tokyo-night&hide_border=true)
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff9c/Zrayoid" alt="GitHub Contribution Calendar" width="100%">
+</p>
 </div>
 
 
