@@ -1,247 +1,165 @@
-> booting profile...
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-
-<linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#00F5FF"/>
-    <stop offset="50%" stop-color="#7C3AED"/>
-    <stop offset="100%" stop-color="#FF00AA"/>
-</linearGradient>
-
-<filter id="glow">
-    <feGaussianBlur stdDeviation="4" result="blur"/>
-    <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-    </feMerge>
-</filter>
-
-</defs>
-
-<!-- Background -->
-
-<rect width="1200" height="280" fill="#0D1117"/>
-
-<!-- Top line -->
-
-<line
-x1="80"
-y1="55"
-x2="1120"
-y2="55"
-stroke="#00F5FF"
-stroke-width="2"
-opacity=".4"/>
-
-<!-- Bottom line -->
-
-<line
-x1="80"
-y1="225"
-x2="1120"
-y2="225"
-stroke="#A855F7"
-stroke-width="2"
-opacity=".4"/>
-
-<!-- Main Text -->
-
-<text
-x="600"
-y="165"
-text-anchor="middle"
-font-size="92"
-font-family="JetBrains Mono, monospace"
-font-weight="900"
-fill="url(#textGradient)"
-filter="url(#glow)"
-letter-spacing="8">
-
-ZRAYOID
-
-</text>
-
-<!-- Subtitle -->
-
-<text
-x="600"
-y="205"
-text-anchor="middle"
-font-size="20"
-font-family="JetBrains Mono, monospace"
-fill="#8B949E"
-letter-spacing="4">
-
-MODERN C++ • GAME DEVELOPMENT • OPEN SOURCE
-
-</text>
-
-</svg>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E+booting+zrayoid-os...;%3E+loading+developer+profile...;%3E+learning+Modern+C%2B%2B...;%3E+building+one+project+at+a+time...;%3E+target+%3A+Game+Development;%3E+system+ready." />
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/badge/Currently-Learning%20Modern%20C++-00F5FF?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-</p>
-
 <div align="center">
+
+<!-- If you keep your existing banner, rename it to assets/banner.png -->
+<img src="assets/banner.png" width="100%" alt="Zrayoid cyberpunk banner" />
+
+# `ZRAYOID` <sub> // SYSTEM ONLINE</sub>
+
+### C++ LEARNER · ASPIRING GAME DEVELOPER
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+my+programming+foundations;Exploring+Modern+C%2B%2B+%26+OOP;Working+towards+Game+Development)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# > SYSTEM_PROFILE
+## `01 // TERMINAL`
 
-```cpp
-Name        :: Rahul
-Degree      :: B.Sc. Information Technology
-Year        :: Second Year
-Focus       :: Modern C++
-Destination :: Game Development
-Editor      :: VS Code
-OS          :: Windows + Linux
-Status      :: Learning
+```bash
+$ whoami
+Rahul
 
----
+$ current_status
+B.Sc. IT student | Programmer in progress
 
-## Hey there! 👋
+$ primary_quest
+Game Development
 
-I'm Rahul.
-
-I enjoy learning how software works and building projects that help me improve as a programmer.
-
-Right now I'm learning Modern C++ and Object-Oriented Programming.
-My long-term goal is to become a Game Developer, and this GitHub is where I'll share that journey.
-
-### Fun Facts
-
-- ♟️ Chess keeps me thinking.
-- 🎮 Games inspired me to start programming.
-- 🎌 Anime is my favorite way to unwind.
----
-
-# > CURRENT_MISSION
-
-```text
-[✓] C Basics
-[►] Modern C++
-[►] Object-Oriented Programming
-
-[ ] STL
-[ ] Data Structures
-[ ] Algorithms
-[ ] Design Patterns
-[ ] Game Development
-[ ] Engine Programming
+$ currently_learning
+Modern C++ | Object-Oriented Programming
 ```
 
----
+## `02 // ABOUT ME`
 
-# > MODULES
+Hey! I'm Rahul. I enjoy understanding how software works, solving problems, and building things that make me a better programmer.
+
+I'm currently strengthening my programming foundations with Modern C++ and OOP. My long-term goal is to become a Game Developer, and this profile documents the experiments, practice, and projects along the way.
+
+Outside code: chess ♟️ · gaming 🎮 · anime 🍥
+
+## `03 // CURRENT MISSION`
+
+> Live progress is generated from the `.cpp` files in this repository by the GitHub Action in `.github/workflows/update-progress.yml`.
+
+<!-- MISSION:START -->
+| CHAPTER | PROGRAMS | PROGRESS | STATUS |
+|:--|--:|:--|:--|
+| Variables | 10 / 10 | ██████████ 100% | COMPLETE |
+| Data Types | 11 / 11 | ██████████ 100% | COMPLETE |
+| Conditions | 14 / 14 | ██████████ 100% | COMPLETE |
+| Loops | 5 / 5 | ██████████ 100% | COMPLETE |
+| Functions | 29 / 29 | ██████████ 100% | COMPLETE |
+| Arrays | 24 / 24 | ██████████ 100% | COMPLETE |
+| Bitwise Operators | 12 / 12 | ██████████ 100% | COMPLETE |
+| Pointers | 18 / 18 | ██████████ 100% | COMPLETE |
+| OOP | 0 / 15 | ░░░░░░░░░░ 0% | WAITING FOR FIRST UPLOAD |
+<!-- MISSION:END -->
+
+**Progress rule:** completed chapters keep their historical completion caps. Future chapters use a 15-program target. Counts can exceed the cap, but the progress bar stays at 100%. The next chapter becomes active only after its first program is uploaded.
+
+## `04 // TECH ARSENAL`
 
 <div align="center">
 
-### Languages
+<!-- GitHub README supports a horizontal icon row, but not JavaScript-powered carousel buttons or true auto-scroll. -->
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode&theme=dark" alt="Technology icons" />
 
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
-
-### Exploring
-
-<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark"/>
+<sub>Current tools and learning technologies · this row can be extended as your toolkit grows.</sub>
 
 </div>
 
----
-
-# > GITHUB_ACTIVITY
+## `05 // FEATURED PROJECTS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zrayoid&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=A855F7&text_color=E5E5E5&ring_color=00F5FF"/>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=Zrayoid&theme=transparent&hide_border=true&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF&sideLabels=E5E5E5&dates=8B949E"/>
+### PROJECT 01
+
+<img src="https://placehold.co/320x150/090d1a/00e5ff?text=PROJECT+LOADING" width="100%" alt="Project loading" />
+
+**PROJECT LOADING**
+
+<sub>Initializing first project...</sub>
+
+`COMING SOON`
+
+</td>
+<td width="33%" align="center">
+
+### PROJECT 02
+
+<img src="https://placehold.co/320x150/090d1a/b56cff?text=PROJECT+LOADING" width="100%" alt="Project loading" />
+
+**PROJECT LOADING**
+
+<sub>Building something new...</sub>
+
+`COMING SOON`
+
+</td>
+<td width="33%" align="center">
+
+### PROJECT 03
+
+<img src="https://placehold.co/320x150/090d1a/ff4fd8?text=PROJECT+LOADING" width="100%" alt="Project loading" />
+
+**PROJECT LOADING**
+
+<sub>Mission not yet deployed...</sub>
+
+`COMING SOON`
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
+## `06 // GITHUB ACTIVITY`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zrayoid&bg_color=0D1117&color=00F5FF&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d1a&title_color=00e5ff&icon_color=b56cff&text_color=c9d1d9" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Zrayoid&theme=tokyonight&hide_border=true&background=090d1a&ring=00e5ff&fire=ff4fd8&currStreakLabel=00e5ff" alt="GitHub streak" />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zrayoid&bg_color=090d1a&color=c9d1d9&line=00e5ff&point=ff4fd8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
----
-<h2>🐍 Contribution Snake</h2>
+## `07 // LEARNING JOURNEY`
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Zrayoid/Zrayoid/output/github-contribution-grid-snake-dark.svg">
-</p>
+| STATUS | MILESTONE |
+|:--|:--|
+| <span style="color:#00e5ff">● COMPLETE</span> | Programming fundamentals |
+| <span style="color:#00e5ff">● COMPLETE</span> | Functions, arrays and pointers |
+| <span style="color:#b56cff">● IN PROGRESS</span> | Object-Oriented Programming |
+| <span style="color:#777">○ NEXT</span> | Deeper C++ and problem solving |
+| <span style="color:#777">○ LONG-TERM</span> | Game development |
 
-# > ACTIVE_PROJECTS
+## `08 // BEYOND THE CODE`
 
-```text
-STATUS : UNDER CONSTRUCTION
-```
+<div align="center">
 
-Projects coming soon.
+`♟ CHESS`　 `🎮 GAMING`　 `🍥 ANIME`
 
-Every repository I publish represents something new I've learned.
+</div>
 
-Quality over quantity.
+## `09 // ESTABLISH CONNECTION`
 
----
+<div align="center">
 
-# > DEVELOPER_LOG
-
-```
-2026
-
-✓ Started taking GitHub seriously
-
-✓ Learning Modern C++
-
-► Object-Oriented Programming
-
-○ STL
-
-○ Data Structures
-
-○ Algorithms
-
-○ Game Development
-```
-
----
-
-# > TRANSMISSION_CHANNELS
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/rahul-kamti-53bb13362">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
+<a href="https://www.linkedin.com/in/rahul-kamti-53bb13362/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Zrayoid">
+  <img src="https://img.shields.io/badge/GitHub-ZRAYOID-b56cff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</div>
+<br />
 
----
-
-<div align="center">
-
-```
-Connection Closed.
-
-Thanks for visiting.
-
-See you in the next commit.
-```
+<sub>“Every system starts with a single line of code.”</sub>
 
 </div>
