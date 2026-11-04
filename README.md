@@ -44,14 +44,14 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 <!-- MISSION:START -->
 | CHAPTER | PROGRAMS | PROGRESS | STATUS |
 |:--|--:|:--|:--|
-| Variables | 10 / 10 | ██████████ 100% | COMPLETE |
-| Data Types | 11 / 11 | ██████████ 100% | COMPLETE |
-| Conditions | 14 / 14 | ██████████ 100% | COMPLETE |
+| Variables | 0 / 10 | ██████████ 100% | COMPLETE |
+| Data Types | 0 / 11 | ██████████ 100% | COMPLETE |
+| Conditions | 0 / 14 | ██████████ 100% | COMPLETE |
 | Loops | 5 / 5 | ██████████ 100% | COMPLETE |
-| Functions | 29 / 29 | ██████████ 100% | COMPLETE |
-| Arrays | 24 / 24 | ██████████ 100% | COMPLETE |
-| Bitwise Operators | 12 / 12 | ██████████ 100% | COMPLETE |
-| Pointers | 18 / 18 | ██████████ 100% | COMPLETE |
+| Functions | 11 / 29 | ██████████ 100% | COMPLETE |
+| Arrays | 14 / 24 | ██████████ 100% | COMPLETE |
+| Bitwise Operators | 0 / 12 | ██████████ 100% | COMPLETE |
+| Pointers | 11 / 18 | ██████████ 100% | COMPLETE |
 | OOP | 0 / 15 | ░░░░░░░░░░ 0% | WAITING FOR FIRST UPLOAD |
 <!-- MISSION:END -->
 
