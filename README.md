@@ -78,7 +78,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 ### PROJECT 01
 
-<a href="https://github.com/Zrayoid/CPP_PROJECTS/tree/main/Mini_project">
+<a href="[https://github.com/Zrayoid/CPP_PROJECTS/tree/main/Mini_project](https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/Number_Guessing_Game.cpp)">
 <img src="https://placehold.co/320x150/090d1a/00ff9c?text=NUMBER+GUESSING+GAME" width="100%" alt="Number Guessing Game" />
 </a>
 
