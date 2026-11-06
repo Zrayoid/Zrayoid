@@ -70,25 +70,21 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 ## `05 // FEATURED PROJECTS`
 
-<div align="center">
-
-<table>
-<tr>
 <td width="33%" align="center">
 
 ### PROJECT 01
 
-<a href="[https://github.com/Zrayoid/CPP_PROJECTS/tree/main/Mini_project](https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/Number_Guessing_Game.cpp)">
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/Number_Guessing_Game.cpp">
 <img src="https://placehold.co/320x150/090d1a/00ff9c?text=NUMBER+GUESSING+GAME" width="100%" alt="Number Guessing Game" />
 </a>
 
 **NUMBER GUESSING GAME**
 
-<sub>A C++ console game with random numbers and distance-based hints.</sub>
+<sub>C++ console game featuring random numbers and distance-based hints.</sub>
 
 `LEVEL 1 // COMPLETED`
 
-<a href="https://github.com/Zrayoid/Mini-Projects/tree/main/Mini_Projects_level1">VIEW PROJECT ↗</a>
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/Number_Guessing_Game.cpp">VIEW SOURCE ↗</a>
 
 </td>
 <td width="33%" align="center">
