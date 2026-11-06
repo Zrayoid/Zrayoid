@@ -70,7 +70,11 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 ## `05 // FEATURED PROJECTS`
 
-<td width="33%" align="center">
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
 ### PROJECT 01
 
@@ -87,7 +91,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 <a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/Number_Guessing_Game.cpp">VIEW SOURCE ↗</a>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### PROJECT 02
 
@@ -100,7 +104,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 `COMING SOON`
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### PROJECT 03
 
@@ -116,20 +120,6 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 </tr>
 </table>
 
-</div>
-
-
-<h2 align="center">06 // GITHUB ACTIVITY</h2>
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Zrayoid&show_icons=true&theme=tokyonight&hide_border=true)
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Zrayoid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://ghchart.rshah.org/00ff9c/Zrayoid?v=2" alt="GitHub Contribution Calendar" width="100%">
 </div>
 
 
