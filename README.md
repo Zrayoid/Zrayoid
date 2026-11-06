@@ -78,13 +78,17 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 ### PROJECT 01
 
-<img src="https://placehold.co/320x150/090d1a/00e5ff?text=PROJECT+LOADING" width="100%" alt="Project loading" />
+<a href="https://github.com/Zrayoid/Mini-Projects/tree/main/Mini_Projects_level1">
+<img src="https://placehold.co/320x150/090d1a/00ff9c?text=NUMBER+GUESSING+GAME" width="100%" alt="Number Guessing Game" />
+</a>
 
-**PROJECT LOADING**
+**NUMBER GUESSING GAME**
 
-<sub>Initializing first project...</sub>
+<sub>A C++ console game with random numbers and distance-based hints.</sub>
 
-`COMING SOON`
+`LEVEL 1 // COMPLETED`
+
+<a href="https://github.com/Zrayoid/Mini-Projects/tree/main/Mini_Projects_level1">VIEW PROJECT ↗</a>
 
 </td>
 <td width="33%" align="center">
