@@ -88,7 +88,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 `LEVEL 1 // COMPLETED`
 
-<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/Number_Guessing_Game.cpp">VIEW SOURCE ↗</a>
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/NumberGuess/Number_Guessing_Game.cpp">VIEW SOURCE ↗</a>
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -108,8 +108,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 ### PROJECT 03
 
-<img src="https://placehold.co/320x150/090d1a/ff4fd8?text=PROJECT+LOADING" width="100%" alt="Project loading" />
-
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/tic_tac_toe/tic_tac_toe.cpp">VIEW SOURCE ↗</a>
 **PROJECT LOADING**
 
 <sub>Mission not yet deployed...</sub>
