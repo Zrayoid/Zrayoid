@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <!-- If you keep your existing banner, rename it to assets/banner.png -->
@@ -62,6 +62,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 <div align="center">
 
+<!-- GitHub README supports a horizontal icon row, but not JavaScript-powered carousel buttons or true auto-scroll. -->
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode&theme=dark" alt="Technology icons" />
 
 <sub>Current tools and learning technologies · this row can be extended as your toolkit grows.</sub>
@@ -74,7 +75,6 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 <table>
 <tr>
-
 <td width="33%" align="center" valign="top">
 
 ### PROJECT 01
@@ -89,46 +89,43 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 `LEVEL 1 // COMPLETED`
 
-<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/Number_Guessing_Game.cpp">VIEW SOURCE ↗</a>
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/NumberGuess/Number_Guessing_Game.cpp">VIEW SOURCE ↗</a>
 
 </td>
-
 <td width="33%" align="center" valign="top">
 
 ### PROJECT 02
 
-<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/tic_tac_toe/tic_tac_toe.cpp">
-<img src="https://placehold.co/320x150/090d1a/b56cff?text=TIC+TAC+TOE" width="100%" alt="Tic-Tac-Toe" />
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/tic_tac_toe%20/tic_tac_toe%20.cpp">
+<img src="https://placehold.co/320x150/090d1a/b56cff?text=TIC+TAC+TOE" width="100%" alt="Tic Tac Toe" />
 </a>
 
-**TIC-TAC-TOE**
+**TIC TAC TOE**
 
 <sub>Two-player C++ console game featuring turn management, input validation, win detection and draw detection.</sub>
 
 `LEVEL 1 // COMPLETED`
 
-<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/tic_tac_toe/tic_tac_toe.cpp">VIEW SOURCE ↗</a>
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/tic_tac_toe%20/tic_tac_toe%20.cpp">VIEW SOURCE ↗</a>
 
 </td>
-
 <td width="33%" align="center" valign="top">
 
 ### PROJECT 03
 
-<img src="https://placehold.co/320x150/090d1a/00ff9c?text=PROJECT+LOADING" width="100%" alt="Project loading" />
-
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/tic_tac_toe/tic_tac_toe.cpp">VIEW SOURCE ↗</a>
 **PROJECT LOADING**
 
-<sub>Building something new...</sub>
+<sub>Mission not yet deployed...</sub>
 
 `COMING SOON`
 
 </td>
-
 </tr>
 </table>
 
 </div>
+
 
 ## `07 // LEARNING JOURNEY`
 
@@ -156,4 +153,11 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
   <img src="https://img.shields.io/badge/LinkedIn-Connect-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Zrayoid">
-  <img src="https://img.shields.io/badge/GitHub-ZRAYOID-b56cff?style=for-the-badge&logo=
+  <img src="https://img.shields.io/badge/GitHub-ZRAYOID-b56cff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br />
+
+<sub>“Every system starts with a single line of code.”</sub>
+
+</div>
