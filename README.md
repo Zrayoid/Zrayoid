@@ -113,19 +113,19 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 
 ### PROJECT 03
 
-<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/tic_tac_toe/tic_tac_toe.cpp">VIEW SOURCE ↗</a>
-**PROJECT LOADING**
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/BankManagementSystem/Bank.cpp">
+<img src="https://placehold.co/320x150/090d1a/ff4fd8?text=BANK+MANAGEMENT+SYSTEM" width="100%" alt="Bank Management System" />
+</a>
 
-<sub>Mission not yet deployed...</sub>
+**BANK MANAGEMENT SYSTEM**
 
-`COMING SOON`
+<sub>A C++ project focused on basic banking operations and account management.</sub>
+
+`LEVEL 1 // COMPLETED`
+
+<a href="https://github.com/Zrayoid/CPP_PROJECTS/blob/main/Mini_Projects_level1/BankManagementSystem/Bank.cpp">VIEW SOURCE ↗</a>
 
 </td>
-</tr>
-</table>
-
-</div>
-
 
 ## `07 // LEARNING JOURNEY`
 
