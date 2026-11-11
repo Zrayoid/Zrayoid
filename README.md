@@ -45,15 +45,16 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 <!-- MISSION:START -->
 | CHAPTER | PROGRAMS | PROGRESS | STATUS |
 |:--|--:|:--|:--|
-| Variables | 0 / 10 | ██████████ 100% | COMPLETE |
-| Data Types | 0 / 11 | ██████████ 100% | COMPLETE |
-| Conditions | 0 / 14 | ██████████ 100% | COMPLETE |
-| Loops | 5 / 5 | ██████████ 100% | COMPLETE |
-| Functions | 11 / 29 | ██████████ 100% | COMPLETE |
-| Arrays | 14 / 24 | ██████████ 100% | COMPLETE |
-| Bitwise Operators | 0 / 12 | ██████████ 100% | COMPLETE |
-| Pointers | 11 / 18 | ██████████ 100% | COMPLETE |
-| OOP | 0 / 15 | ░░░░░░░░░░ 0% | WAITING FOR FIRST UPLOAD |
+| Variables | ██████████ 100% | COMPLETE |
+| Data Types| ██████████ 100% | COMPLETE |
+| Conditions| ██████████ 100% | COMPLETE |
+| Loops |     ██████████ 100% | COMPLETE |
+| Functions | ██████████ 100% | COMPLETE |
+| Arrays |    ██████████ 100% | COMPLETE |
+| Bitwise Operators | ██████████ 100% | COMPLETE |
+| Pointers |  ██████████ 100% | COMPLETE |
+| Structures| ██████████ 100% | COMPLETE |
+| OOP |       ░░░░░░░░░░ 0% | WAITING FOR FIRST UPLOAD |
 <!-- MISSION:END -->
 
 **Progress rule:** completed chapters keep their historical completion caps. Future chapters use a 15-program target. Counts can exceed the cap, but the progress bar stays at 100%. The next chapter becomes active only after its first program is uploaded.
