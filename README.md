@@ -43,8 +43,8 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 > Live progress is generated from the `.cpp` files in this repository by the GitHub Action in `.github/workflows/update-progress.yml`.
 
 <!-- MISSION:START -->
-| CHAPTER | PROGRAMS | PROGRESS | STATUS |
-|:--|--:|:--|:--|
+| CHAPTER | PROGRESS | STATUS |
+|:--|--:|:--|
 | Variables | ██████████ 100% | COMPLETE |
 | Data Types| ██████████ 100% | COMPLETE |
 | Conditions| ██████████ 100% | COMPLETE |
