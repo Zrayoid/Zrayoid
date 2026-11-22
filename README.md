@@ -53,7 +53,7 @@ Outside code: chess ♟️ · gaming 🎮 · anime 🍥
 | Arrays | 14 / 24 | ██████████ 100% | COMPLETE |
 | Bitwise Operators | 0 / 12 | ██████████ 100% | COMPLETE |
 | Pointers | 11 / 18 | ██████████ 100% | COMPLETE |
-| OOP | 0 / 15 | ░░░░░░░░░░ 0% | WAITING FOR FIRST UPLOAD |
+| OOP | 0 / 15 | ██████████ 100%| COMPLETE |
 <!-- MISSION:END -->
 
 **Progress rule:** completed chapters keep their historical completion caps. Future chapters use a 15-program target. Counts can exceed the cap, but the progress bar stays at 100%. The next chapter becomes active only after its first program is uploaded.
